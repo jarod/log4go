@@ -1,0 +1,9 @@
+Fork from https://code.google.com/p/log4go
+
+Installation:
+- Run `go get github.com/jarod/log4go`
+
+Usage:
+- Add the following import:
+import log "github.com/jarod/log4go"
+
